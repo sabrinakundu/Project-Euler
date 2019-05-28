@@ -14,9 +14,9 @@ public class SumSquareDifference {
 		System.out.println(Math.pow(total2, 2));
 		double diff = Math.pow(total2, 2) - total1;
 		System.out.println(diff);
-		}
+	}
 		
-		}
+}
 
 
 
